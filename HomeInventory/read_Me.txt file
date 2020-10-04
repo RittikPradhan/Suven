@@ -1,0 +1,22 @@
+Project 2
+
+Home Inventory Manager Project
+
+
+Problem statement : How does one calculate the worth of the House Hold goods and equipment's
+when taking a Household Insurance policy.
+
+Abstract : The Home Inventory Manager Project helps you keep track of your valuable belongings. 
+For every item in your inventory, the program stores a description, location, serial number, purchase 
+
+information, and even a photo. A printed inventory is available - very useful for insurance purposes. 
+This coding Internship project would re-inforce some object-oriented programming concepts and how to print from a project.
+
+In case , if don't have any idea about Home Insurance policies then read this, https://www.bankbazaarinsurance.com/insurance/home-insurance.html
+
+If you like to read about Household Insurance like what it is and what all it covers , 
+please read this first, https://www.insurancechat.co.za/2011-01/what-is-household-insurance-and-does-it-cover-water-and-flood-damage/
+
+Download Project Specs from here, https://internship.suvenconsultants.com/documents/Online%20coding%20(Java)%20Internship%20project%202.pdf
+( Use the Project Specs only as a refrence. As an intern you should be able to achieve atleast 90% of the functionalities.
+Certain code snippets may need change, due to updates in Java version.)
