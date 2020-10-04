@@ -1,0 +1,18 @@
+Project 1
+Consumer Loan Assistant Project
+
+Problem statement : (Ever wonder just) How much those credit card accounts are costing you ?
+
+Abstract : This project will help you get a handle on consumer debt. The Consumer Loan Assistant Project you would build computes payments and loan terms given balance and interest information. We look at focus traversal among controls, how to do input validation, and the message box for user feedback.
+
+Consumer Loan Assistant Project Preview :
+In this project, we will build a consumer loan assistant. You input a loan balance and yearly interest
+rate. You then have two options: (1) enter the desired number of payments and the loan assistant
+computes the monthly payment, or (2) enter the desired monthly payment and the loan assistant
+determines the number of payments you wilmake. An analysis of your loan, including total of
+payments and interest paid is also provided.
+
+This project has a detailed Code Specifications along with the code blocks. It is expected that the Intern follows each step carefully and implements the project. At the end of project docs certain enhancements are given, which are optional, but recommended to be done.
+
+Download Project Specs from https://internship.suvenconsultants.com/documents/Online%20coding%20(Java)%20Internship%20project%201.pdf
+( Use the Project Specs only as a refrence. As an intern you should be able to achieve atleast 90% of the functionalities. Certain code snippets may need change, due to updates in Java version.) 
